@@ -1,0 +1,6 @@
+{
+  "name": "YouTube 影片逐字稿與重點摘要",
+  "description": "輸入 YouTube 影片連結，為您快速產出完整逐字稿、重點章節、關鍵摘要與 AI 互動問答，打造高效率影片學習工作區。",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
